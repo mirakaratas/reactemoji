@@ -1,0 +1,22 @@
+.emoji-item {
+  display: flex;
+  align-items: center;
+  width: 580px;
+  padding: 2px;
+  border-bottom: 1px solid #ddd;
+}
+
+.emoji-item span {
+  margin-right: 2px; 
+}
+
+.copy-text {
+  color: #bcbcbc;
+  cursor: pointer;
+  margin-left: auto;
+}
+
+.copy-text:hover {
+  color: #919497;
+}
+
